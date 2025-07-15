@@ -1,0 +1,15 @@
+{
+  "content": [],
+  "created_at": "2025-07-15T15:05:24.495Z",
+  "created_by": "Nomura-N",
+  "title": "Suspense Film",
+  "slug": "suspense-film",
+  "updated_at": "2025-07-15T15:05:24.495Z",
+  "updated_by": "Nomura-N",
+  "parent": "8609ceff-e2bf-466d-9297-81877431bffc",
+  "autogenerate": {
+    "enabled": true,
+    "type": "event",
+    "type_id": "822372fd-3250-48bd-a0c8-ba1113affc62"
+  }
+}
