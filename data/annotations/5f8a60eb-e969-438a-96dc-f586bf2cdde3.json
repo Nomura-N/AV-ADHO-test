@@ -1,5 +1,22 @@
 {
-  "annotations": [],
+  "annotations": [
+    {
+      "start_time": 1,
+      "end_time": 11,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "This is ten seconds, offset by 1 "
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "ed8595f6-260c-49a1-9c72-1322023a630b"
+    }
+  ],
   "set": "Default",
   "event_id": "df93ac67-6b8d-46c3-bbe0-2270e90d7e52",
   "source_id": "a8452042-6535-4fb0-a070-cff1679c0b18"
